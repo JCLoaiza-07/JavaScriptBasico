@@ -1,0 +1,1 @@
+alert("Sí está conectado el index")
